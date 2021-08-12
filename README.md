@@ -30,4 +30,4 @@
 <p align="center">
   <h3 align="center"><b>sloved.ac</b></h3>
 </p>
-                                          [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkqk66)](https://solved.ac/wkqk66)
+                                          ![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkqk66)](https://solved.ac/wkqk66)
