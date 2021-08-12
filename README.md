@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=75BDE0&fontColor=F7EFE9&height=300&section=header&text=GyuHee%20Hwang&fontSize=100)
+<h3 align="center">![header](https://capsule-render.vercel.app/api?type=wave&color=75BDE0&fontColor=F7EFE9&height=300&section=header&text=GyuHee%20Hwang&fontSize=100)</h3>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
