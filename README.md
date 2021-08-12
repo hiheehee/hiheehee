@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6AB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Pytorch-EE4CEC?style=flat-square&logo=pytorch&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge.pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a> &nbsp 
