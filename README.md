@@ -30,18 +30,17 @@
 <p align="center">
   <h3 align="center"><b>sloved.ac</b></h3>
 </p>
-<p align="center">
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkqk66)](https://solved.ac/wkqk66)
-</p>
+
+[![Solved.ac 프로필 align="center"](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkqk66)](https://solved.ac/wkqk66)
 
 <p align="center">
-  <h3 href="https://github.com/hiheehee/data-structure" target = "_blank">CS</h3>&nbsp
-  <h3 href="https://github.com/hiheehee/BOJ" target = "_blank">BOJ 문제 풀이</h3>&nbsp
-  <h3 href="https://github.com/hiheehee/Programmers" target = "_blank">Programmers 문제 풀이</h3>&nbsp
+  <h3><a href="https://github.com/hiheehee/data-structure" target = "_blank">CS</a></h3>&nbsp
+  <h3><a href="https://github.com/hiheehee/BOJ" target = "_blank">BOJ 문제 풀이</a></h3>&nbsp
+  <h3><a href="https://github.com/hiheehee/Programmers" target = "_blank">Programmers 문제 풀이</a></h3>&nbsp
 </p>
 
 <h1 align="center"><b>Data Data Analysis</b></h1>
 <p align="center">
-  <h3 href="https://github.com/hiheehee/Surface-Scale-Defects" target = "_blank">Surface-Scale-Defects</h3>&nbsp
-  <h3 href="https://github.com/hiheehee/Posco_BigData_Project" target = "_blank">Posco_BigData_Project</h3>&nbsp
+  <h3><a href="https://github.com/hiheehee/Surface-Scale-Defects" target = "_blank">Surface-Scale-Defects</a></h3>&nbsp
+  <h3><a href="https://github.com/hiheehee/Posco_BigData_Project" target = "_blank">Posco_BigData_Project</a></h3>&nbsp
 </p>
