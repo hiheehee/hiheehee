@@ -30,7 +30,8 @@
 <p align="center">
   <h3 align="center"><b>sloved.ac</b></h3>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiheehee)](https://github.com/hiheehee/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiheehee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![hiheehee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiheehee&show_icons=true)  
 
