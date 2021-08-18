@@ -30,9 +30,9 @@
 <p align="center">
   <h3 align="center"><b>sloved.ac</b></h3>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiheehee)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiheehee&show_icons=true)
-[![Solved.ac 프로필 align="center"](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkqk66)](https://solved.ac/wkqk66)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiheehee)](https://github.com/hiheehee/github-readme-stats)  
+![hiheehee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiheehee&show_icons=true)  
+[![Solved.ac 프로필 align="center"](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkqk66)](https://solved.ac/wkqk66)  
 
 <p align="center">
   <h3><a href="https://github.com/hiheehee/data-structure" target = "_blank">CS</a></h3>&nbsp
