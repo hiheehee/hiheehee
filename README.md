@@ -30,7 +30,9 @@
 <p align="center">
   <h3 align="center"><b>sloved.ac</b></h3>
 </p>
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkqk66)](https://solved.ac/wkqk66)
+
 <p align="center">
   <a href="https://github.com/hiheehee/data-structure" target = "_blank">CS</a>
   <a href="https://github.com/hiheehee/BOJ" target = "_blank">BOJ 문제 풀이</a>
