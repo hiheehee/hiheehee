@@ -26,18 +26,15 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiheehee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-<h1 align="center"><b>Data structure & Algorithm</b></h1>
-<p align="center">
-  <h3 align="center"><b>sloved.ac</b></h3>
-</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiheehee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![hiheehee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiheehee&show_icons=true)  
 
 [![Solved.ac 프로필 align="center"](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkqk66)](https://solved.ac/wkqk66)  
 
+<h1 align="center"><b>Data structure & Algorithm</b></h1>
 <p align="center">
+  <h3 align="center"><b>sloved.ac</b></h3>
   <h3><a href="https://github.com/hiheehee/data-structure" target = "_blank">CS</a></h3>&nbsp
   <h3><a href="https://github.com/hiheehee/BOJ" target = "_blank">BOJ 문제 풀이</a></h3>&nbsp
   <h3><a href="https://github.com/hiheehee/Programmers" target = "_blank">Programmers 문제 풀이</a></h3>&nbsp
